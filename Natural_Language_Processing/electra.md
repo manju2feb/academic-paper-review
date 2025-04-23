@@ -1,7 +1,7 @@
 # Blog Review: ELECTRA - Pre-training Text Encoders as Discriminators Rather Than Generators
-Author: Manju YadavBased on the paper by: Kevin Clark et al., Google AI & Stanford University (ICLR 2020)
+Author: Manju Yadav 
 
-Authors: Kevin Clark et al., Google AI Language & Stanford University, Published at: ICLR 2020
+Based on the paper by: Kevin Clark et al., Google AI & Stanford University (ICLR 2020)
 
 
 ## What is ELECTRA?
