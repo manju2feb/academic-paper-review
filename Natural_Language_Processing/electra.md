@@ -1,8 +1,12 @@
 # Paper Review: ELECTRA — A Smarter, Faster Pretraining Strategy
+
 Paper: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
-https://arxiv.org/pdf/2003.10555
+
 Authors: Kevin Clark et al., Google AI Language & Stanford University
+
 Published at: ICLR 2020
+
+Source: https://arxiv.org/pdf/2003.10555 
 
 ## Core Idea
 The paper proposes ELECTRA, a pretraining method that significantly improves efficiency over the traditional Masked Language Modeling (MLM) used in BERT. Rather than training a model to predict the original identity of masked tokens, ELECTRA trains a discriminator to detect whether a token in the input was replaced by a generator or not.
